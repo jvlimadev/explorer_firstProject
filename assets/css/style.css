@@ -1,0 +1,18 @@
+    :root {
+        color:#7d7987;
+
+        --font-family-body : 'Open Sans', sans-serif;
+        --font-family-header : 'Inter', sans-serif;
+
+        --color-body: #000000;
+        --color-border : #eceff2;
+        --color-paragraph : #7d7987;
+        --color-span : #ff9900;
+        
+    }
+
+    body {
+        color: var(--color-body);
+        font-family: var(--font-family-body);
+        text-align: center;
+    }    

@@ -1,0 +1,9 @@
+.rodape__link {
+    color: var(--color-span);
+    font-size: 17px;
+    line-height: 28px
+}
+
+.rodape__link + .rodape__link {
+    margin-left: 28px;
+}
